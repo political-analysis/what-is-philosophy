@@ -27,7 +27,10 @@ We've seen that academic specialization introduced an interesting shift in the c
 
 To a modern ear, *sophos* is a highly multifaceted word. We draw fine distinctions around different types of mental capacity, and to us the word sounds nebulous and overloaded. What *philosophia* meant to the Ancient Greeks, however, seems to have taken in all of these different facets.
 
-The word *sophisma* is derived from *sophos*, and derives the modern ["sophism."](https://en.wikipedia.org/wiki/Sophism)
+The Ancient Greek word *sophiste* is derived from *sophos*, and derives the modern ["sophism."](https://en.wikipedia.org/wiki/Sophism) Wikipedia writes:
+
+> Sophists could be described both as teachers and philosophers, having traveled about in Greece teaching their students various life skills, particularly rhetoric and public speaking. These were useful qualities of the time, during which persuasive ability had a large influence on one's political power and economic wealth. Athens became the center of the sophists' activity, due to the city's freedom of speech for non slave citizens and wealth of resources. There were numerous differences among Sophist teachings, and they lectured on subjects that were as diverse as semantics and rhetoric, to ontology, epistemology. Sophists taught their beliefs for a considerable price.
+
 
 
 
