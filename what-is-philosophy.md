@@ -1,4 +1,43 @@
-What is philosophy? Put differently, what does the word "philosophy" mean? It has meant different things to different people at different times, and so to explore the meaning of the word is to explore the history of the word. 
+What is philosophy? Put differently, what does the word "philosophy" mean? Here is a dictionary definition from Google: "the study of the fundamental nature of knowledge, reality, and existence, especially when considered as an academic discipline."
+
+**The academic discipline of philosophy**
+
+The [modern academic discipline of philosophy](https://en.wikipedia.org/wiki/Philosophy) is mostly practiced at universities by paid professionals. Professional philosophers generally do some of the following:
+
+* teach philosophy to students;
+* publish journal articles, which are intended to be read by other professional philosophers and are often incomprehensible to laymen;
+* publish books, usually targeted at other professional philosophers and often incomprehensible to laymen, but sometimes intended for a general audience;
+* publish textbooks, primarily designed to be used in university classes;
+* publish in the popular press;
+* give talks, primarily to audiences of other professional philosophers, but also to the public.
+
+What exactly do professional philosophers study and teach? All kinds of things! Based on my experience in the field, I would describe the subject of matter of academic philosophy as being anything whose study we haven't yet figured out how to systematize. This means that modern academic philosophers grapple mostly with very difficult questions, many of which we have grappled with for thousands of years without clear progress.
+
+This conception of philosophy makes more sense given some historical context. In the 19th century, the creation of the modern research university led to the creation of a class of academic professionals, who were specialized into fields. One of these fields was "philosophy."
+
+Prior to academic professionalization and specialization, "philosophy" in referred in Western usage to any body of knowledge. Post-specialization, philosophy became a specialized field answering a class of specifically "philosophical questions."
+
+When professional philosophers talk about "philosophical questions," their usage is generally consistent with the interpretation "questions that belong to the academic field of philosophy." In other words, it's a question of jurisdiction. Should a question be answered by the methods of biology? If so, it's not a philosophical question; it's a biological question. Should a question be answered by proving a mathematical theorem? If so, it's not a philosophical question; it's a mathematical question. If no other field has jurisdiction over a question, then that's a philosophical question.
+
+**Historical usage of "philosophy"**
+
+We've seen that academic specialization introduced an interesting shift in the common usage of "philosophy," from referring to any body of knowledge to having a much more particular and narrow usage. This shift in language has buried some of the historical meanings of the term. Let's unbury some of these historical meanings.
+
+"Philosophy" comes from the Greek *philosophia*, most commonly translated as "love of wisdom." *Philosophia* is a compound of *philo* and *sophia*. *Philo* is the combining form of *phílos*, and it translates as "love of." *Sophia* means "wisdom," and it is related to *sophos*, which means ["wise," but also "clever," "skillful," "cunning," "able," "intelligent," and "prudent."](https://en.wiktionary.org/wiki/%CF%83%CE%BF%CF%86%CF%8C%CF%82#Ancient_Greek)
+
+To a modern ear, *sophos* is a highly multifaceted word. We draw much finer distinctions around types of mental capacity, and to us the word sounds nebulous and overloaded. What *philosophia* meant to the Ancient Greeks, however, seems to have taken in all of these different facets.
+
+The word *sophisma* is derived from *sophos*, and derives the modern ["sophism."](https://en.wikipedia.org/wiki/Sophism)
+
+
+
+
+
+
+
+
+
+It has meant different things to different people at different times, and so to explore the meaning of the word is to explore the history of the word. 
 
 The word "philosophy" is derived from the Greek *philosophia*, which translates as "love of wisdom." Some Ancient Greeks were deeply dedicated to *philosophia*. In the Ancient Greek texts we can find accounts of philosophical schools, lively philosophical debates, and even social unrest and scandal caused by the practice of philosophy, as in [the story of the death of Socrates](https://en.wikipedia.org/wiki/Socrates#Trial_and_death, which is as fresh as ever today).
 
