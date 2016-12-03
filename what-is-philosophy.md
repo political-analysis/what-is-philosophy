@@ -15,7 +15,7 @@ What exactly do professional philosophers study and teach? All kinds of things! 
 
 This conception of philosophy makes more sense given some historical context. In the 19th century, the creation of the modern research university led to the creation of a class of academic professionals, who were specialized into fields. One of these fields was "philosophy."
 
-Prior to academic professionalization and specialization, "philosophy" in referred in Western usage to any body of knowledge. Post-specialization, philosophy became a specialized field answering a class of specifically "philosophical questions."
+Prior to academic professionalization and specialization, "philosophy" [referred in Western usage to any body of knowledge](http://www.etymonline.com/index.php?term=philosophy&allowed_in_frame=0). Post-specialization, philosophy became a specialized field answering a class of specifically "philosophical questions."
 
 When professional philosophers talk about "philosophical questions," their usage is generally consistent with the interpretation "questions that belong to the academic field of philosophy." In other words, it's a question of jurisdiction. Should a question be answered by the methods of biology? If so, it's not a philosophical question; it's a biological question. Should a question be answered by proving a mathematical theorem? If so, it's not a philosophical question; it's a mathematical question. If no other field has jurisdiction over a question, then that's a philosophical question.
 
