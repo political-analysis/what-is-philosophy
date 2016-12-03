@@ -25,7 +25,7 @@ We've seen that academic specialization introduced an interesting shift in the c
 
 "Philosophy" comes from the Greek *philosophia*, most commonly translated as "love of wisdom." *Philosophia* is a compound of *philo* and *sophia*. *Philo* is the combining form of *phílos*, and it translates as "love of." *Sophia* means "wisdom," and it is related to *sophos*, which means ["wise," but also "clever," "skillful," "cunning," "able," "intelligent," and "prudent."](https://en.wiktionary.org/wiki/%CF%83%CE%BF%CF%86%CF%8C%CF%82#Ancient_Greek)
 
-To a modern ear, *sophos* is a highly multifaceted word. We draw much finer distinctions around types of mental capacity, and to us the word sounds nebulous and overloaded. What *philosophia* meant to the Ancient Greeks, however, seems to have taken in all of these different facets.
+To a modern ear, *sophos* is a highly multifaceted word. We draw fine distinctions around different types of mental capacity, and to us the word sounds nebulous and overloaded. What *philosophia* meant to the Ancient Greeks, however, seems to have taken in all of these different facets.
 
 The word *sophisma* is derived from *sophos*, and derives the modern ["sophism."](https://en.wikipedia.org/wiki/Sophism)
 
