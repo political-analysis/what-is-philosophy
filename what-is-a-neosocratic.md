@@ -28,7 +28,7 @@ Socrates cared deeply about the ethical life and the intellectual life. He spent
 
 Socrates lived on very little. He had no consistent source of income, because he spent his time doing philosophy with anybody who would engage with him, and unlike intellectual contemporaries such as the [sophists](https://en.wikipedia.org/wiki/Sophism), he did not charge money for his philosophical activities. He ate relatively little and relatively simple food, and he had few clothes. XXX: where did he live? However, he gave many reasons why his lifestyle was preferable to a richer lifestyle.
 
-The overlying philosophy of Socrates' simple lifestyle was his emphasis on continence, which seems to have meant something like moderation and control of bodily impulses and drives.
+The overlying philosophy of Socrates' simple lifestyle was his emphasis on continence, meaning something like moderation and control of bodily impulses and drives.
 
 * He recommended eating relatively little and relatively simple food, and eating only when one was hungry. He argued this led to greater enjoyment of food. He argued that people who ate lots of fancy food were driven to fancy foods because their appetite was blunted by overeating, and that it was harder for them to enjoy eating.
 * He recommended maintaining a consistent sleep schedule and not oversleeping. He ridiculed people who slept more than necessary, for pleasure, and used not getting enough sleep as an excuse for flaking on obligations. He argued that maintaining a consistent sleep schedule is a good prevention for insomnia and fatigue.
