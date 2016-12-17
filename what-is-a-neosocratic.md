@@ -16,20 +16,30 @@ Socrates left no writings for us himself. Our main sources for understanding him
 * Plato wrote [a number of](https://en.wikipedia.org/wiki/Socratic_dialogue#Platonic_dialogues) [dialogues](http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman) featuring Socrates as the protagonist. Ostensibly these are recordings of dialogues that actually occurred between the characters featured in them. However, this is unverifiable, and many historians suspect that Plato put words into the mouth of Socrates in many instances in his dialogues.
 * Xenophon wrote a number of works about Socrates: **[Apology](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0212%3atext%3dApol.)**, **[Memorabilia](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0208)**, **[Symposium](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0212%3atext%3dSym.)**, and **[Economics](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0212%3atext%3dEc.)**. 
 
+Because we do not have the words of Socrates himself, it is hard for us to form a definite picture of his philosophy. We don't know where the available sources may be biased, may lie, or may omit important facts or viewpoints. Xenophon is considered a less biased source than Plato, because Xenophon was a historian, among other reasons.
+
+Rather than attempting the futile and fairly pointless task of unearthing the "real Socrates," I will simply describe, first, Socrates' character and philosophy as portrayed by Xenophon; then, Socrates' character and philosophy as portrayed by Plato.
+
+## Xenophon's Socrates
+
+In this section, "Socrates" refers to Socrates as portrayed by Xenophon.
+
+Socrates cared deeply about the ethical life and the intellectual life. He spent his time wandering around town discussing philosophy, particularly ethical and political philosophy, with anybody who would listen. He was highly scrupulous ethically, and used rational argumentation to persuade others to pursue ethical living.
+
+Socrates lived on very little. He had no consistent source of income, because he spent his time doing philosophy with anybody who would engage with him, and unlike intellectual contemporaries such as the [sophists](https://en.wikipedia.org/wiki/Sophism), he did not charge money for his philosophical activities. He ate relatively little and relatively simple food, and he had few clothes. XXX: where did he live? However, he gave many reasons why his lifestyle was preferable to a richer lifestyle.
+
+The overlying philosophy of Socrates' simple lifestyle was his emphasis on continence, which seems to have meant something like moderation and control of bodily impulses and drives.
+
+* He recommended eating relatively little and relatively simple food, and eating only when one was hungry. He argued this led to greater enjoyment of food. He argued that people who ate lots of fancy food were driven to fancy foods because their appetite was blunted by overeating, and that it was harder for them to enjoy eating.
+* He recommended maintaining a consistent sleep schedule and not oversleeping. He ridiculed people who slept more than necessary, for pleasure, and used not getting enough sleep as an excuse for flaking on obligations. He argued that maintaining a consistent sleep schedule is a good prevention for insomnia and fatigue.
+* He recommended avoiding sexual activity, especially with physically attractive people. He issued dire warnings against becoming emotionally involved with attractive people, going so far as to recommend avoiding associating with especially attractive people altogether. He argued that emotional involvements with attractive people tended to make people behave irrationally and immoderately, and to lead to painful emotional wounds which took a very long time to heal.
+* He recommended having few and simple clothes, and allowing one's body to become habituated to different forms of weather so that they were not uncomfortable. One should note in this connection that going out into severe cold with inadequate clothing can result in death and other medical problems from [hypothermia](https://en.wikipedia.org/wiki/Hypothermia).
 
 
 
+## Xenophon's Socrates
 
-
-When we speak of Socrates' philosophy, this is often a figurative reference, because most of what we know about Socrates' philosophy comes from the writings of his student Plato (Socrates having written nothing himself). It is usually impossible to tell whether any given passage represents something Socrates really said, or something Plato put into Socrates' mouth. As a matter of convenience, we will usually not worry about this distinction.
-
-Our concern is not so much with the historical Socrates, as with the myth of Socrates established by the writings of Plato. This myth, even if it contains a lot of fiction and distortion, is in my opinion a great source of wisdom, which is still fresh and relevant today. Where it's factually accurate, and where it isn't, is largely irrelevant, because the important thing is the merit and applicability of the philosophical ideas contained in the myth.
-
-Therefore, unless context makes the opposite clear, "Socrates" refers in this post to the Platonic, mythical Socrates, and not to the historical Socrates. It should be understood that many characteristics of the Platonic, mythical Socrates can be corroborated by historical evidence, in particular the [writings of Xenophon on Socrates](http://www.hup.harvard.edu/catalog.php?isbn=9780674996953), which are considered a less biased source than Plato. Because I am not an Ancient Greek scholar, I won't try to say which aspects of the myth are and are not historically accurate.
-
-Socrates cared deeply about ethics. His chosen methods of fighting injustice were setting a good moral example, and arguing via the Socratic method in favor of virtuous life. He would argue in person, in his community, tailoring his discussion to the persons present. He would argue with anybody who would listen.
-
-Socrates cared deeply about the intellectual life, which he saw as closely connected with the virtuous, moral life. He believed that one could recognize the preferability of virtuous life on intellectual grounds, and even from a self-interested perspective. He believed that philosophy was necessary both to uncover the nature of virtuous life, and to argue for its correctness in the public sphere.
+## Plato's Socrates
 
 # Neo-Socratic thought
 
