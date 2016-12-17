@@ -35,7 +35,9 @@ The overlying philosophy of Socrates' simple lifestyle was his emphasis on conti
 * He recommended avoiding sexual activity, especially with physically attractive people. He issued dire warnings against becoming emotionally involved with attractive people, going so far as to recommend avoiding associating with especially attractive people altogether. He argued that emotional involvements with attractive people tended to make people behave irrationally and immoderately, and to lead to painful emotional wounds which took a very long time to heal.
 * He recommended having few and simple clothes, and allowing one's body to become habituated to different forms of weather so that they were not uncomfortable. One should note in this connection that going out into severe cold with inadequate clothing can result in death and other medical problems from [hypothermia](https://en.wikipedia.org/wiki/Hypothermia).
 
+By not charging money for his philosophical activity, Socrates said that he retained the freedom to spend his time talking to whom he wanted to talk. He compared his situation to that of the contemporary sophists, who by charging for their services were forced to spend their time with those who would pay, predominantly the wealthy upper classes.
 
+Socrates said that it was easy for him to get what he needed, because his needs were so simple. His primary need seems to have been food, and he only required small quantities of inexpensive food, which he reportedly obtained easily, most likely through charity and possibly foraging.
 
 ## Xenophon's Socrates
 
