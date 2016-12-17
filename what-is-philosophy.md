@@ -25,13 +25,13 @@ We've seen that academic specialization introduced an interesting shift in the c
 
 "Philosophy" comes from the Greek *philosophia*, most commonly translated as "love of wisdom." *Philosophia* is a compound of *philo* and *sophia*. *Philo* is the combining form of *phílos*, and it translates as "love of." *Sophia* means "wisdom," and it is related to *sophos*, which means ["wise," but also "clever," "skillful," "cunning," "able," "intelligent," and "prudent."](https://en.wiktionary.org/wiki/%CF%83%CE%BF%CF%86%CF%8C%CF%82#Ancient_Greek)
 
-To a modern ear, *sophos* is a highly multifaceted word. We draw fine distinctions around different types of mental capacity, and to us the word sounds nebulous and overloaded. What *philosophia* meant to the Ancient Greeks, however, seems to have taken in all of these different facets.
+To a modern ear, *sophos* is a highly multifaceted word. We draw fine distinctions around different types of mental capacity, and to us the word sounds nebulous and overloaded. 
 
-The Ancient Greek word *sophiste* is derived from *sophos*, and derives the modern ["sophism."](https://en.wikipedia.org/wiki/Sophism) Wikipedia writes:
+The Ancient Greek word *sophiste* is derived from *sophos*, and derives the modern ["sophism."](https://en.wikipedia.org/wiki/Sophism) The Greek *sophistes*, or "sophists," were a class of professional teachers in Ancient Greece. Wikipedia writes:
 
 > Sophists could be described both as teachers and philosophers, having traveled about in Greece teaching their students various life skills, particularly rhetoric and public speaking. These were useful qualities of the time, during which persuasive ability had a large influence on one's political power and economic wealth. Athens became the center of the sophists' activity, due to the city's freedom of speech for non slave citizens and wealth of resources. There were numerous differences among Sophist teachings, and they lectured on subjects that were as diverse as semantics and rhetoric, to ontology, epistemology. Sophists taught their beliefs for a considerable price.
 
-
+The first Greeks who defined themselves as philosophers, to my knowledge, were Socrates and his pupils, including Plato and Aristotle. This group of philosophers were staunchly opposed to the sophists. 
 
 
 
