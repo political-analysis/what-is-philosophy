@@ -37,7 +37,7 @@ The overlying philosophy of Socrates' simple lifestyle was his emphasis on conti
 
 By not charging money for his philosophical activity, Socrates said that he retained the freedom to spend his time talking to whom he wanted to talk. He compared his situation to that of the contemporary sophists, who by charging for their services were forced to spend their time with those who would pay, predominantly the wealthy upper classes.
 
-Socrates said that it was easy for him to get what he needed, because his needs were so simple. His primary need seems to have been food, and he only required small quantities of inexpensive food, which he reportedly obtained easily, most likely through charity and possibly foraging.
+Socrates said that it was easy for him to get what he needed, because his needs were so simple. His primary need seems to have been food, and he only required small quantities of inexpensive food, which he reportedly obtained easily.
 
 ## Xenophon's Socrates
 
